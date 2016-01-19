@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[USBSI]]></title>
-        <description><![CDATA[USBSI]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Testing for USBSI]]></title>
+        <description><![CDATA[Testing for USBSI]]></description>
+        <link>https://thegrid.ai/usbsi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 23:10:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Jan 2016 23:14:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/usbsi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1a82c98-2c8a-484b-b2d7-9ba7900d493d.jpg">]]></description>
-            <link>undefinedf60924db-a989-4fc7-ba02-ed67f4055f2e/index.html</link>
+            <link>https://thegrid.ai/usbsi/f60924db-a989-4fc7-ba02-ed67f4055f2e/index.html</link>
             <guid isPermaLink="false">f60924db-a989-4fc7-ba02-ed67f4055f2e</guid>
             <pubDate>Tue, 19 Jan 2016 23:10:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Testing other things]]></title>
+            <description><![CDATA[<article><h1>Testing other things</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f88542e4b05ff126bdadf9db15e0641a1abfce62.jpg"></article>]]></description>
+            <link>https://thegrid.ai/usbsi/testing-other-things/index.html</link>
+            <guid isPermaLink="false">91712a6e-4f2f-4897-be34-481d6c572339</guid>
+            <pubDate>Tue, 19 Jan 2016 23:13:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
