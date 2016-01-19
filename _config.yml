@@ -1,7 +1,7 @@
 name: USBSI
 favicon: null
-layout_spectrum: 0.33098655357025564
-typography_spectrum: 0.07291554915718734
+layout_spectrum: 0.33274
+typography_spectrum: 0.63959
 title: Testing for USBSI
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.31266478379257023
+    - '#014c8d'
+    - '#5b88b2'
+    - '#020202'
+    - '#a2caed'
+    - '#d01e45'
+  brandStrength: 0.5
   lightness: 0.12107194005511701
   saturation: 0.27562420698814094
   rhythmicContrast: 0.42901386227458715
