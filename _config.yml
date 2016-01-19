@@ -1,0 +1,28 @@
+name: USBSI
+favicon: null
+layout_spectrum: 0.33098655357025564
+typography_spectrum: 0.07291554915718734
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.31266478379257023
+  lightness: 0.12107194005511701
+  saturation: 0.27562420698814094
+  rhythmicContrast: 0.42901386227458715
+purpose: []
